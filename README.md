@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://telegra.ph/file/d382d2fad1fdd2a4ccca4.png" alt="ROSE BUCKET Logo">
+  <img src="https://i.ibb.co/NT9DXTP/1f3c248c-3b2a-4207-8c45-c71676a05fb2-1.webp" alt="Testerosa Logo">
 </p>
 <h1 align="center">
-  <b>Miss Rozy : A Permanent file Store BOT</b>
+  <b>Testerosa : A Permanent file Store BOT</b>
 </h1>
-<p>I am the first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The LazyDeveloperr. </p>
+<p>I am the first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. </p>
 
-### `Miss Rozy` : Give her a STAR ⭐️
+### `Testerosa` : Give her a STAR ⭐️
 I am hte first permanent file store with Automatic thumbnail extracting + Automatic Movie Posting feature. Its all extra feature's source code is written by The [LazyDeveloperr](https://github.com/LazyDeveloperr).<b>So Copy pasters -> Must give credit to [LazyDeveloperr](https://github.com/LazyDeveloperr) else 🖕<b/>
 
 ## Commands:
